@@ -11,6 +11,7 @@
     "url": "git+https://github.com/CbaSoft93/Websocket-Server.git"
   },
   "author": "Sebastian Morales Lorca",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CbaSoft93/Websocket-Server/issues"
   },
