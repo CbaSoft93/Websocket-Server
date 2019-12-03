@@ -15,7 +15,7 @@
     "url": "https://github.com/CbaSoft93/Websocket-Server/issues"
   },
   "homepage": "https://github.com/CbaSoft93/Websocket-Server#readme",
-  "private": true,
+  "private": false,
   "dependencies": {
     "express": "^4.17.1",
     "ws": "^7.2.0"
